@@ -1,4 +1,4 @@
 baseURL = 'https://faiyazjambotkar.github.io/MDP-AssignmentFinal/'
 languageCode = 'en-us'
 title = 'Faiyaz Blog'
-theme = "aether"
+theme = 'aether'
