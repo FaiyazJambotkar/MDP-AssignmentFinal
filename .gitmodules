@@ -1,0 +1,6 @@
+[submodule "thesmes/aether"]
+	path = thesmes/aether
+	url = https://github.com/josephhutch/aether
+[submodule "themes/aether"]
+	path = themes/aether
+	url = https://github.com/josephhutch/aether
